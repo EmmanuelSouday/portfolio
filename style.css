@@ -2,39 +2,73 @@ body
 {
     background-image: url(images/fond.jpg);
     background-repeat: no-repeat;
+    background-attachment: fixed;
+
 }
+
 div
 {
-    margin-top: 15px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+header
+{
+    text-align: center;
+}
+img
+{
+    height: 150px;
+    width: 150px;
+    border-radius: 50px;
+    display: block;
+    margin: 0 auto;
+
+}
+p
+{
+    font-size: 1.6em;
+
 }
 #one
 {
-    background-color: #E8A10E;
+    background-color: #addae6;
     height:150px;
+    opacity: 0.8;
+
 
 }
 
 #two
 {
-    background-color: #E8A10E;
-    height:150px;
+    background-color: #addae6;
+    height:160px;
+    opacity: 0.8;
 
 }
 #three
 {
-    background-color: #E8A10E;
-    height:150px;
+    background-color: #addae6;
+    height:160px;
+    opacity: 0.8;
 
 }
 #four
 {
-    background-color: #E8A10E;
-    height:150px;
+    background-color: #addae6;
+    height:160px;
+    opacity: 0.8;
 
 }
 #five
 {
-    background-color: #E8A10E;
-    height:150px;
+    background-color: #addae6;
+    height:160px;
+    opacity: 0.8;
+
+}
+
+footer
+{
+
 
 }
