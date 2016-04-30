@@ -10,6 +10,7 @@ div
 {
     margin-top: 20px;
     border-radius: 10px;
+    text-align: center;
 
 }
 header
@@ -30,12 +31,14 @@ p
     font-size: 1.6em;
 
 }
+
 #one
 {
     background-color: #addae6;
     height:150px;
     opacity: 0.8;
-    border: 5px ridge;
+    border: 5px black ridge;
+    box-shadow: 5px 5px 5px black;
 
 }
 
@@ -44,26 +47,44 @@ p
     background-color: #addae6;
     height:160px;
     opacity: 0.8;
-    border: 5px ridge;
+    border: 5px black ridge;
+    box-shadow: 5px 5px 5px black;
 }
 #three
 {
     background-color: #addae6;
-    height:160px;
+    height:170px;
     opacity: 0.8;
-    border: 5px ridge;
+    border: 5px black ridge;
+    box-shadow: 5px 5px 5px black;
 }
 #four
 {
     background-color: #addae6;
     height:160px;
     opacity: 0.8;
-    border: 5px ridge;
+    border: 5px black ridge;
+    box-shadow: 5px 5px 5px black;
 }
 #five
 {
     background-color: #addae6;
     height:160px;
     opacity: 0.8;
-    border: 5px ridge;
+    border: 5px black ridge;
+    box-shadow: 5px 5px 5px black;
+}
+h3
+{
+    text-align: center;
+}
+#twitter, #facebook, #linkedin, #github
+ {
+
+  width: 50px;
+
+  height: 50px;
+
+  border-radius: 25px;
+
 }
