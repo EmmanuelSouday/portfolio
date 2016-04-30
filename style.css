@@ -10,6 +10,7 @@ div
 {
     margin-top: 20px;
     border-radius: 10px;
+
 }
 header
 {
@@ -34,7 +35,7 @@ p
     background-color: #addae6;
     height:150px;
     opacity: 0.8;
-
+    border: 5px ridge;
 
 }
 
@@ -43,32 +44,26 @@ p
     background-color: #addae6;
     height:160px;
     opacity: 0.8;
-
+    border: 5px ridge;
 }
 #three
 {
     background-color: #addae6;
     height:160px;
     opacity: 0.8;
-
+    border: 5px ridge;
 }
 #four
 {
     background-color: #addae6;
     height:160px;
     opacity: 0.8;
-
+    border: 5px ridge;
 }
 #five
 {
     background-color: #addae6;
     height:160px;
     opacity: 0.8;
-
-}
-
-footer
-{
-
-
+    border: 5px ridge;
 }
