@@ -1,24 +1,28 @@
-body
-{
+
+body{
     background-image: url(images/fond.jpg);
-    background-repeat: no-repeat;
+    background-repeat:no-repeat;
     background-attachment: fixed;
+    background-position: center;
+
 
 }
 
-div
-{
+
+div{
     margin-top: 20px;
     border-radius: 10px;
     text-align: center;
 
 }
-header
-{
+
+
+header{
     text-align: center;
 }
-img
-{
+
+
+img{
     height: 150px;
     width: 150px;
     border-radius: 50px;
@@ -26,15 +30,16 @@ img
     margin: 0 auto;
 
 }
-p
-{
-    font-size: 1.6em;
+
+p{
+    font-size: 1.5em;
+    font-family: arial, sans-serif;
 
 }
 
-#one
-{
-    /*background-color: #addae6;*/
+
+#one{
+    background-color:#F8E0E6;
     height:150px;
     opacity: 0.8;
     /*border: 5px black ridge;*/
@@ -42,44 +47,53 @@ p
 
 }
 
-#two
-{
-    /*background-color: #addae6;*/
+
+#two{
+    background-color: #F8E0E6;
     height:160px;
     opacity: 0.8;
     /*border: 5px black ridge;*/
     /*box-shadow: 5px 5px 5px black;*/
 }
-#three
-{
-    /*background-color: #addae6;*/
+
+
+#three{
+    background-color: #F8E0E6;
     height:170px;
     opacity: 0.8;
     /*border: 5px black ridge;*/
     /*box-shadow: 5px 5px 5px black;*/
+    font-style: italic;
+
 }
-#four
-{
-    /*background-color: #addae6;*/
+
+
+#four{
+    background-color: #F8E0E6;
     height:160px;
     opacity: 0.8;
     /*border: 5px black ridge;*/
     /*box-shadow: 5px 5px 5px black;*/
 }
-#five
-{
-    /*background-color: #addae6;*/
+
+
+#five{
+    background-color: #F8E0E6;
     height:160px;
     opacity: 0.8;
     /*border: 5px black ridge;*/
     /*box-shadow: 5px 5px 5px black;*/
 }
-h3
-{
+
+
+h3{
     text-align: center;
+    text-decoration: underline;
+    
 }
-#twitter, #facebook, #linkedin, #github
- {
+
+
+#twitter, #facebook, #linkedin, #github{
 
   width: 50px;
 
